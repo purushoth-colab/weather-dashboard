@@ -1,13 +1,14 @@
 # weather-dashboard
 URL : https://sylviaprabudy.github.io/weather-dashboard/
+
 Description
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
 
 User Story
 - AS A traveler
 - I WANT to see the weather outlook for multiple cities
-- SO THAT I can plan a trip accordingly
-Acceptance Criteria
+- SO THAT I can plan a trip accordingl
+  Acceptance Criteria
 - GIVEN a weather dashboard with form inputs
 - WHEN I search for a city
 - THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -27,6 +28,7 @@ With a 5-day forecast that displays the date, an icon representation of weather 
 Search history will be saved in local storage.
 This weather daskboard app is mobile compatible.
 Mock-Up
+
 
 
 Technologies Use
